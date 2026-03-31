@@ -1,0 +1,31 @@
+modules/openapi-generator/src/main/resources/kotlin-spring/typeInfoAnnotation.mustache
+  26cc8b043d99c187 6
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/KotlinSpringServerCodegen.java
+  26cc8b043d99c187 169-187,223-224,297-298,560-576,1167-1415
+modules/openapi-generator/src/main/resources/kotlin-spring/dataClass.mustache
+  26cc8b043d99c187 14-15,17-23,30,45,52
+modules/openapi-generator/src/main/resources/kotlin-spring/dataClassSealedVar.mustache
+  26cc8b043d99c187 1-5
+modules/openapi-generator/src/test/java/org/openapitools/codegen/kotlin/spring/KotlinSpringServerCodegenTest.java
+  26cc8b043d99c187 4963-5150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "1af1d1ce0400708d296eb0d2f2d3df0f50ce2351",
+  "prompts": {
+    "26cc8b043d99c187": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "958fb7cb-b887-4fee-bfe8-c0ecec5777d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Roemer Vlasveld <roemer.vlasveld@personio.de>",
+      "messages": [],
+      "total_additions": 559,
+      "total_deletions": 69,
+      "accepted_lines": 525,
+      "overriden_lines": 0
+    }
+  }
+}
