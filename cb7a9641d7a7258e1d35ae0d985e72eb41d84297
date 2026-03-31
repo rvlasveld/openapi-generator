@@ -1,0 +1,25 @@
+modules/openapi-generator/src/main/resources/kotlin-spring/dataClass.mustache
+  26cc8b043d99c187 30
+modules/openapi-generator/src/main/java/org/openapitools/codegen/languages/KotlinSpringServerCodegen.java
+  26cc8b043d99c187 1397-1400
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "cb7a9641d7a7258e1d35ae0d985e72eb41d84297",
+  "prompts": {
+    "26cc8b043d99c187": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "958fb7cb-b887-4fee-bfe8-c0ecec5777d7",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Roemer Vlasveld <roemer.vlasveld@gmail.com>",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 2,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
